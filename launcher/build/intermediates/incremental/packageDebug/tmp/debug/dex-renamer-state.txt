@@ -1,0 +1,4 @@
+#Sun Jan 31 17:19:51 CET 2021
+base.0=E\:\\UNITY PROJECTS\\CyberDungeon\\EXPORT\\launcher\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
